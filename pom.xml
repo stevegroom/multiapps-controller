@@ -51,7 +51,7 @@
         <spring.security.jwt.version>1.0.9.RELEASE</spring.security.jwt.version>
         <spring.cloud.version>1.2.3.RELEASE</spring.cloud.version>
         <hana.cloud.version>1.0.4.RELEASE</hana.cloud.version>
-        <quartz.version>2.2.1</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <jackson.version>2.9.8</jackson.version>
         <jackson-asl.version>1.9.13</jackson-asl.version>
         <liquibase.version>3.4.1</liquibase.version>
